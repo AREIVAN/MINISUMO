@@ -1,5 +1,17 @@
+<<<<<<< HEAD
 
 input=sexo
 #define=pene 
 define=jkfghd
 #define=dkdkkd
+=======
+input=sexo
+define rama 1
+
+.
+
+
+.
+
+
+>>>>>>> 1b8d47d3d58f6775390a3ff58acb020e50b6bd5f
